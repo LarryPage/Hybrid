@@ -1,0 +1,2 @@
+# Hybrid
+android Hybrid:抛弃使用高风险的WebView addJavascriptInterface方法，通过对js层调用函数及回调函数的包装，支持异步回调
